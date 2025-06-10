@@ -1,4 +1,4 @@
-# My Repository
+# ChallengeOne-3399122
 
 This is a new repository created to store and manage my code.
 
@@ -8,4 +8,4 @@ This repository is currently in its initial state. More content and documentatio
 
 ## License
 
-This project is open source and available under the MIT License. 
+This project is open source and available under the MIT License.
